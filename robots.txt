@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onerastr.github.io/sitemap
+Sitemap: https://onerastr.github.io/app/sitemap
+Sitemap: https://onerastr.github.io/assets/sitemap
+Sitemap: https://onerastr.github.io/css/sitemap
+Sitemap: https://onerastr.github.io/includes/sitemap
+Sitemap: https://onerastr.github.io/item/sitemap
+Sitemap: https://onerastr.github.io/src/sitemap
